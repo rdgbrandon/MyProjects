@@ -8,3 +8,5 @@ https://github.com/LoreMontero/financial-dashboard
 https://github.com/rdgbrandon/StockOverflow
 
 https://github.com/makowishes/Marketing-Agent
+
+https://github.com/rdgbrandon/financecompare
